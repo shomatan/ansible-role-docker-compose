@@ -1,1 +1,6 @@
 ---
+- name: Install docker-compose.
+  get_url:
+    dest: "{{ docker_compose_bin_path }}"
+    url: https://github.com/docker/compose/releases/download/{{ docker_compose_version }}/docker-compose-{{ ansible_system }}-{{ ansible_architecture }}
+    mode: 0755
