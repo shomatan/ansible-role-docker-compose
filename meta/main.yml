@@ -2,7 +2,7 @@
 galaxy_info:
   author: shomatan
   description: Installs docker-compose.
-  company:
+  company: Soften Inc.
   license: "license MIT"
   min_ansible_version: 1.8
   platforms:
