@@ -14,5 +14,4 @@ galaxy_info:
         - all
   galaxy_tags: []
 
-dependencies:
-  - shomatan.docker
+dependencies: []

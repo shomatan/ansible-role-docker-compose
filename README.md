@@ -17,7 +17,7 @@ Role Variables
 Dependencies
 ------------
 
-- shomatan.docker
+None.
 
 Example Playbook
 ----------------
@@ -33,3 +33,5 @@ MIT
 
 Author Information
 ------------------
+
+Shoma Nishitateno
