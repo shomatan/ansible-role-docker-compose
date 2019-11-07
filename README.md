@@ -12,7 +12,7 @@ Role Variables
 --------------
 
     docker_compose_bin_path: /usr/local/bin/docker-compose
-    docker_compose_version: 1.11.2
+    docker_compose_version: 1.24.1
 
 Dependencies
 ------------
